@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+}
+h1, h2 {
+    text-align: center;
+}
+h2 {
+    color: purple;
+    font-weight: 900;
+    font-size: 30px;
+}
+table {
+    margin: 0 auto;
+    border: 2px solid purple;
+}
+thead {
+    background-color: pink;
+    font-weight: bold;
+}
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid purple;
+}
+.lable {
+    background-color: lightgoldenrodyellow;
+    font-weight: lighter;
+    font-family: monospace;
+}
